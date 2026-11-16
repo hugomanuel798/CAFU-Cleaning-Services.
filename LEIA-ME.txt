@@ -1,0 +1,19 @@
+CAFU Cleaning Services - site com várias páginas
+
+Páginas:
+  index.html (Home), services.html, about.html, why-us.html, reviews.html,
+  contact.html, quote.html, domestic.html, commercial.html, extras.html,
+  areas.html, faq.html, privacy.html
+
+Pastas:
+  css/style.css  -> estilos (compartilhado por todas as páginas)
+  js/script.js   -> scripts (compartilhado por todas as páginas)
+  images/        -> imagens
+
+Como executar no VS Code:
+  1. File > Open Folder e escolha esta pasta.
+  2. Instale a extensão "Live Server" (Ritwick Dey).
+  3. Botão direito em index.html > "Open with Live Server".
+  (Também funciona abrindo index.html direto no navegador.)
+
+Obs.: as fontes (Google Fonts) precisam de internet.
